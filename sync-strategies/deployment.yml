@@ -8,7 +8,6 @@ spec:
   selector:
     matchLabels:
       app: trivial-go-web-app
-      author: pramod
   template:
     metadata:
       labels:
