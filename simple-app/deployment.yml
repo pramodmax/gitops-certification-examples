@@ -12,6 +12,7 @@ spec:
     metadata:
       labels:
         app: trivial-go-web-app
+        from: pramod
     spec:
       containers:
       - name: webserver-simple
